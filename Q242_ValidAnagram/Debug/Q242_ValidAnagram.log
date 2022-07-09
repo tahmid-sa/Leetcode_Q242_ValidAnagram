@@ -1,0 +1,4 @@
+﻿  Q242_ValidAnagram.cpp
+G:\Leetcode\Easy\Q242_ValidAnagram\Q242_ValidAnagram\Q242_ValidAnagram.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
+G:\Leetcode\Easy\Q242_ValidAnagram\Q242_ValidAnagram\Q242_ValidAnagram.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+  Q242_ValidAnagram.vcxproj -> G:\Leetcode\Easy\Q242_ValidAnagram\Debug\Q242_ValidAnagram.exe
